@@ -1,6 +1,7 @@
 #!usr/local/bin/python3
-a='hello world'
-print(a)
-for i in range(1,10):
-	print(i)
-a='what a fuck with you!!!!!'
+#-*-coding:utf-8-*-
+撒但所的
+萨大赛
+的
+def get(a,b):
+	
